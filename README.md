@@ -1,2 +1,2 @@
 # php-multi-version
-Run multiple php on ubuntu
+Run multiple php version on ubuntu
